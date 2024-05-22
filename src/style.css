@@ -1,1 +1,8 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.contenido {
+  text-align: center;
+  width: 100dvw;
+  padding-top: 60px;
+}
+body {
+  background-color: bisque;
+}
